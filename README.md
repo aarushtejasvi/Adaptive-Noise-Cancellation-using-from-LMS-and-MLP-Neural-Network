@@ -1,6 +1,5 @@
 # Adaptive Noise Cancellation using LMS and MLP Neural Networks
 
-An AI/ML-based project that explores adaptive noise cancellation by combining traditional signal processing algorithms with machine learning techniques. The project compares multiple learning algorithms to understand their effectiveness in removing linear and nonlinear noise from audio signals.
 
 ## 📌 Project Overview
 
